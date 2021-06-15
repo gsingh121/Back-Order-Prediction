@@ -9,7 +9,7 @@ class dataTransform:
      """
                This class shall be used for transforming the Good Raw Training Data before loading it in Database!!.
 
-               Written By: iNeuron Intelligence
+               Written By: Gourav Singh
                Version: 1.0
                Revisions: None
 
@@ -28,7 +28,7 @@ class dataTransform:
                                                         keep only "Integer" data for ease up the loading.
                                                         This column is anyways going to be removed during training.
 
-                                            Written By: iNeuron Intelligence
+                                            Written By: Gourav Singh
                                            Version: 1.0
                                            Revisions: None
 
@@ -60,7 +60,7 @@ class dataTransform:
                                                        each value for that column is enclosed in quotes. This is done
                                                        to avoid the error while inserting string values in table as varchar.
 
-                                            Written By: iNeuron Intelligence
+                                            Written By: Gourav Singh
                                            Version: 1.0
                                            Revisions: None
 
